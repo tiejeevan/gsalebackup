@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Auth Portal",
+  "description": "A visually refined and secure sign-in component built with React, TypeScript, and Tailwind CSS, featuring modern UI/UX, state management with Context API, and persistent sessions using IndexedDB.",
+  "requestFramePermissions": []
+}
